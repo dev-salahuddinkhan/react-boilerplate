@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.yes{
+    @apply ring-4 ring-amber-400 ring-offset-4 p-8 rounded-full;
+}
